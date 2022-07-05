@@ -1,4 +1,4 @@
 # slick-media-player
 
 <hr>
-## Dynamic media player with slick slide
+Dynamic media player with slick slide
