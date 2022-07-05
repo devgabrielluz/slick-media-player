@@ -1,0 +1,26 @@
+{
+  "name": "slick-media-player",
+  "version": "1.0.0",
+  "description": "Dynamic slick media player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devgabrielluz/slick-media-player.git"
+  },
+  "keywords": [
+    "slick",
+    "media",
+    "player",
+    "image",
+    "video"
+  ],
+  "author": "DevGabrielLuz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devgabrielluz/slick-media-player/issues"
+  },
+  "homepage": "https://github.com/devgabrielluz/slick-media-player#readme"
+}
